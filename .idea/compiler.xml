@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Instagram-Backend-Project" target="19" />
+      <module name="Instagram-Backend-Project" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
